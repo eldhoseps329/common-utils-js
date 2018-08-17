@@ -1,0 +1,14 @@
+{
+  "name": "common-utils-js",
+  "version": "1.0.3",
+  "description": "Validate your string,array,url etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eldhose P S",
+  "license": "ISC",
+  "dependencies": {
+    "dns-socket": "^4.1.1"
+  }
+}
